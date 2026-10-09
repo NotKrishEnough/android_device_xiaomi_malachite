@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="notkrish" fetch="https://github.com/NotKrishEnough/" />
+
+    <project name="android_device_xiaomi_malachite"
+             path="device/xiaomi/malachite"
+             remote="notkrish"
+             revision="evolution-x/bka" />
+
+    <project name="android_device_xiaomi_malachite-kernel"
+             path="device/xiaomi/malachite-kernel"
+             remote="notkrish"
+             revision="lineage-23.2" />
+
+    <project name="proprietary_vendor_xiaomi_malachite"
+             path="vendor/xiaomi/malachite"
+             remote="notkrish"
+             revision="lineage-23.2" />
+</manifest>
