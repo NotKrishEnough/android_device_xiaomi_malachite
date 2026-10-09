@@ -34,6 +34,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Infinity-X build configuration.
 INFINITY_BUILD_TYPE := UNOFFICIAL
 INFINITY_MAINTAINER := NotKrishEnough
+WITH_GAPPS := true
 
 # Optional feature flags; enable only features supported by the ROM tree.
 TARGET_SUPPORTS_BLUR := true
