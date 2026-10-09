@@ -32,7 +32,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(DEVICE_PATH) \
     hardware/google/pixel \
     hardware/google/interfaces \
-    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/infinity/interfaces/power-libperfmgr \
     hardware/mediatek \
     hardware/mediatek/libaedv \
     hardware/mediatek/libmtkperf_client \
