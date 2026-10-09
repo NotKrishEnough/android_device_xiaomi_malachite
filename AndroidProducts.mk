@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/infinity_malachite.mk
 
 COMMON_LUNCH_CHOICES := \
-    infinity_malachite-user \
-    infinity_malachite-userdebug \
-    infinity_malachite-eng
+    infinity_malachite-trunk_staging-user \
+    infinity_malachite-trunk_staging-userdebug \
+    infinity_malachite-trunk_staging-eng
