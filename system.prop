@@ -1,3 +1,13 @@
 # WiFi
 wifi.interface=wlan0
 wifi.supplicant_scan_interval=120
+
+# MistOS About Phone - POCO X7 5G
+ro.mist.display=1220 x 2712, 120 hz
+ro.mist.battery=5110mah
+ro.mist.soc=MediaTek Dimensity 7300-Ultra
+ro.mist.camera=50MP + 8MP + 2MP
+ro.mist.front=20MP
+ro.mist.platform=MT6878
+ro.mist.screen=6.67' AMOLED
+ro.mist.device.name=POCO X7 5G
